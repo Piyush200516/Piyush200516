@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Piyush Mishra</h1>
+<h3 align="center">🚀 Freelance MERN Stack Developer | Building Modern Web Applications</h3>
 
-<!--
-**Piyush200516/Piyush200516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💼 About Me
+- 💻 I am a Full Stack Developer (MERN)
+- 🚀 I build real-world web applications
+- 🌱 Currently learning advanced backend & AI
+- 💼 Open for Freelance Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+- 🔹 CampusFlow — College Management System  
+- 🔹 Event Management Website  
+- 🔹 Portfolio Website  
+
+---
+
+## 🛠 Tech Stack
+React • Node.js • MongoDB • MySQL • JavaScript • Tailwind CSS  
+
+---
+
+## 📬 Contact Me
+- 📧 yourmail@gmail.com  
+
+---
+
+<p align="center">
+  ⭐ Open for Freelance Work  
+</p>
