@@ -19,7 +19,7 @@
 ---
 
 ## 🛠 Tech Stack
-React • Node.js • MongoDB • MySQL • JavaScript • Tailwind CSS  
+JavaScript • React • Next.js • Node.js • Express.js • MongoDB • MySQL • Git • Github • Tailwind CSS •  Firebase • Supabase  
 
 ---
 
