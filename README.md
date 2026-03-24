@@ -5,7 +5,7 @@
 
 ## 🎯 Current Focus
 
--   🔭 Working on: **Building a full-stack e-commerce platform with robust MERN architecture**
+-   🔭 Working on: **Building a full-stack e-commerce platform with robust Full Stack architecture**
 -   🌱 Learning: **Advanced  Next.js for high-performance frontend**
 -   👯 Looking to collaborate on: **Open Source Projects focusing on web development or developer tools**
 -   💬 Ask me about: **Full Stack development, API design, database optimization, or frontend performance**
