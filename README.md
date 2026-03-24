@@ -100,7 +100,7 @@
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=realtime-chat-app-placeholder&theme=tokyonight)](https://github.com/Piyush200516/realtime-chat-app-placeholder) <!-- TODO: Replace with actual repo name -->
 
 **Tech Stack:** React • Node.js • Socket.IO • MongoDB
-**Status:** ✅ Complete | ⭐ 8+ Stars | 🍴 3+ Forks
+**Status:**  🚧 In Development | ⭐ 8+ Stars | 🍴 3+ Forks
 *A dynamic real-time chat application built with Socket.IO for instant messaging, featuring user presence and message history.*
 
 ---
