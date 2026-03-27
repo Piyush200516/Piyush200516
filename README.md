@@ -123,14 +123,19 @@
 
 ---
 
-### ⚡ [Portfolio Website](https://github.com/Piyush200516/portfolio-website-placeholder) <!-- TODO: Replace with your actual project link -->
+### ⚡ [Portfolio Website](https://github.com/Piyush200516/portfolio-website-placeholder)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=portfolio-website-placeholder&theme=tokyonight)](https://github.com/Piyush200516/portfolio-website-placeholder) <!-- TODO: Replace with actual repo name -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=portfolio-website-placeholder&theme=tokyonight)](https://github.com/Piyush200516/portfolio-website-placeholder)
 
-**Tech Stack:** Next.js • Tailwind CSS • Vercel
-**Status:** 🚀 Production | ⭐ 10+ Stars | 🍴 4+ Forks
+**Tech Stack:**  
+- **Frontend / Framework:** Next.js, Tailwind CSS  
+- **Hosting / Deployment:** Vercel  
+- **Features:** Responsive personal portfolio, Projects showcase, Skills overview, Contact form, Modern UI/UX design  
+- **Analytics / Monitoring:** Google Analytics 
+
+**Status:** 🚀 Production | ⭐ 10+ Stars | 🍴 4+ Forks  
+
 *My personal developer portfolio, showcasing my skills, projects, and contact information with a modern, responsive design.*
-
 </div>
 
 ---
