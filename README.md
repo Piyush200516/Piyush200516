@@ -175,30 +175,18 @@
 - ✍️ Share learning through 2–3 technical blogs or posts
 ---
 
-## ☕ Support My Work
+## 💼 Let's Connect / Hire Me
 
-If you found my projects helpful or learned something from my code, consider supporting my work:
+I'm available for freelance projects, collaborations, or consulting. Feel free to reach out or support my work:
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Piyush200516)
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Piyush200516)
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Piyush200516)
+- [💻 GitHub Sponsors](https://github.com/sponsors/Piyush200516) – Support my open-source work & projects  
+- [☕ Buy Me A Coffee](https://buymeacoffee.com/Piyush200516) – A small way to keep me motivated  
+- [🎨 Ko-Fi](https://ko-fi.com/Piyush200516) – Connect or show appreciation  
 
 </div>
 
 <div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Piyush200516&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-
-  ### 🚀 "Code is poetry, and every commit tells a story"
-
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+<sub>✨ Freelance Web & Software Developer | Every connection helps me grow and build impactful projects!</sub>
 </div>
