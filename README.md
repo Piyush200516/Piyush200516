@@ -95,15 +95,23 @@
 *A full-featured Campus Management System with role-based dashboards for Students, CDC, Departments & Fees. Includes attendance & fee management, TC & placement workflows, internships, analytics, PDF receipts, online payments, and real-time notifications.*
 ---
 
-### 🔥 [Realtime Chat Application](https://github.com/Piyush200516/realtime-chat-app-placeholder) <!-- TODO: Replace with your actual project link -->
+### 🏥 [Meditrack](https://github.com/Piyush200516/Meditrack)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=realtime-chat-app-placeholder&theme=tokyonight)](https://github.com/Piyush200516/realtime-chat-app-placeholder) <!-- TODO: Replace with actual repo name -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=Meditrack&theme=tokyonight)](https://github.com/Piyush200516/Meditrack)
 
-**Tech Stack:** React • Node.js • Socket.IO • MongoDB
-**Status:**  🚧 In Development | ⭐ 8+ Stars | 🍴 3+ Forks
-*A dynamic real-time chat application built with Socket.IO for instant messaging, featuring user presence and message history.*
+**Tech Stack:**  
+- **Frontend:** React.js, Tailwind CSS / Chakra UI, React Router, Redux Toolkit, Formik + Yup  
+- **Backend:** Node.js, Express.js, Firebase Auth, Firebase Firestore / Realtime Database, Firebase Cloud Functions  
+- **Database:** Firebase Firestore / MongoDB Atlas (optional)  
+- **Realtime / Chat:** Socket.IO, Firebase Realtime Database  
+- **Notifications:** Firebase Cloud Messaging (FCM), SendGrid / Nodemailer  
+- **File Storage:** Firebase Storage  
+- **Deployment / Hosting:** Vercel (Frontend), Firebase Hosting, Render / Railway (Backend)  
+- **Analytics / Monitoring:** Google Analytics, Firebase Analytics, Sentry / LogRocket  
 
----
+**Status:** ✅ Completed | ⭐ 10+ Stars | 🍴 4+ Forks  
+
+*A full-stack healthcare platform providing 24×7 first aid, doctor support, elderly care, and home nursing services. Features include real-time chat with doctors, appointment management, push notifications, file uploads for medical documents, and a seamless responsive user experience.*
 
 ### ⚡ [Portfolio Website](https://github.com/Piyush200516/portfolio-website-placeholder) <!-- TODO: Replace with your actual project link -->
 
