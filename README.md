@@ -88,8 +88,7 @@
 
 ### 🌟 [CampusFlow Platform](https://github.com/Piyush200516/CampusFlow)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=CampusFlow&theme=tokyonight)](https://github.com/Piyush200516/CampusFlow)
-
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=mern-ecommerce-platform-placeholder&theme=tokyonight)](https://github.com/Piyush200516/mern-ecommerce-platform-placeholder) 
 **Tech Stack:** React • Node.js • Express • MySQL • Redux  
 **Status:** 🚧 In Development | ⭐ 5+ Stars | 🍴 2+ Forks  
 
