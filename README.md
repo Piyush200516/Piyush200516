@@ -109,9 +109,11 @@
 - **Deployment / Hosting:** Vercel (Frontend), Firebase Hosting, Render / Railway (Backend)  
 - **Analytics / Monitoring:** Google Analytics, Firebase Analytics, Sentry / LogRocket  
 
-**Status:** ✅ Completed | ⭐ 10+ Stars | 🍴 4+ Forks  
+**Status:**  🚧 In Development | ⭐ 6+ Stars | 🍴 4+ Forks  
 
 *A full-stack healthcare platform providing 24×7 first aid, doctor support, elderly care, and home nursing services. Features include real-time chat with doctors, appointment management, push notifications, file uploads for medical documents, and a seamless responsive user experience.*
+
+---
 
 ### ⚡ [Portfolio Website](https://github.com/Piyush200516/portfolio-website-placeholder) <!-- TODO: Replace with your actual project link -->
 
