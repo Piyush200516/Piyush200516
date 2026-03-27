@@ -88,11 +88,19 @@
 
 ### 🌟 [CampusFlow Platform](https://github.com/Piyush200516/CampusFlow)
 
-[![Repo](https://img.shields.io/badge/Repo-m-e-blue?style=for-the-badge)](https://github.com/Piyush200516/mern-ecommerce-platform-placeholder)
-**Tech Stack:** React • Node.js • Express • MySQL • Redux  
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=CampusFlow&theme=tokyonight)](https://github.com/Piyush200516/CampusFlow)
+
+**Tech Stack:**  
+- **Frontend:** React.js, Tailwind CSS, React Router, Redux Toolkit  
+- **Backend:** Node.js, Express.js, MySQL, JWT Authentication  
+- **Database:** MySQL / Sequelize ORM  
+- **Features:** Role-based dashboards (Students, CDC, Departments, Fees), Attendance & Fee management, TC & Placement workflows, Internships management, PDF receipts, Online payments, Real-time notifications  
+- **Deployment / Hosting:** Vercel (Frontend), Render / Railway (Backend)  
+- **Analytics / Monitoring:** Google Analytics / Firebase Analytics  
+
 **Status:** 🚧 In Development | ⭐ 5+ Stars | 🍴 2+ Forks  
 
-*A full-featured Campus Management System with role-based dashboards for Students, CDC, Departments & Fees. Includes attendance & fee management, TC & placement workflows, internships, analytics, PDF receipts, online payments, and real-time notifications.*
+*A full-featured Campus Management System with role-based dashboards. Offers attendance & fee management, TC & placement workflows, internships, analytics, PDF receipts, online payments, and real-time notifications for efficient campus operations.*
 ---
 
 ### 🏥 [Meditrack](https://github.com/Piyush200516/Meditrack)
