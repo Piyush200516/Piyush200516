@@ -181,11 +181,11 @@ If you found my projects helpful or learned something from my code, consider sup
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Piyush200516) <!-- TODO: Replace Piyush200516 with your Buy Me A Coffee username -->
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Piyush200516)
 
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Piyush200516) <!-- TODO: Replace Piyush200516 with your Ko-fi username -->
+[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/Piyush200516)
 
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Piyush200516) <!-- TODO: Replace Piyush200516 with your GitHub username -->
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/Piyush200516)
 
 </div>
 
@@ -202,4 +202,3 @@ If you found my projects helpful or learned something from my code, consider sup
 
   <sub>⭐ Feel free to star any repositories you find interesting!</sub>
 </div>
-
