@@ -1,5 +1,5 @@
 # 👨‍💻 Piyush Mishra | Freelance Full Stack Developer
-### 🚀 Building scalable & modern web applications with MERN Stack expertise
+### 🚀 Building scalable & modern web applications with Full Stack expertise
 
 ---
 
@@ -86,14 +86,14 @@
 
 <div align="center">
 
-### 🌟 [MERN E-Commerce Platform](https://github.com/Piyush200516/mern-ecommerce-platform-placeholder) <!-- TODO: Replace with your actual project link -->
+### 🌟 [CampusFlow Platform](https://github.com/Piyush200516/CampusFlow)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=mern-ecommerce-platform-placeholder&theme=tokyonight)](https://github.com/Piyush200516/mern-ecommerce-platform-placeholder) <!-- TODO: Replace with actual repo name -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516&repo=CampusFlow&theme=tokyonight)](https://github.com/Piyush200516/CampusFlow)
 
-**Tech Stack:** React • Node.js • Express • MongoDB • Redux
-**Status:** 🚧 In Development | ⭐ 5+ Stars | 🍴 2+ Forks
-*A fully-featured e-commerce application demonstrating robust MERN stack implementation, user authentication, and payment gateway integration.*
+**Tech Stack:** React • Node.js • Express • MySQL • Redux  
+**Status:** 🚧 In Development | ⭐ 5+ Stars | 🍴 2+ Forks  
 
+*A full-featured Campus Management System with role-based dashboards for Students, CDC, Departments & Fees. Includes attendance & fee management, TC & placement workflows, internships, analytics, PDF receipts, online payments, and real-time notifications.*
 ---
 
 ### 🔥 [Realtime Chat Application](https://github.com/Piyush200516/realtime-chat-app-placeholder) <!-- TODO: Replace with your actual project link -->
