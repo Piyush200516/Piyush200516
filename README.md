@@ -182,8 +182,8 @@ I'm available for freelance projects, collaborations, or consulting. Feel free t
 <div align="center">
 
 - [💻 GitHub Sponsors](https://github.com/sponsors/Piyush200516) – Support my open-source work & projects  
-- [☕ Buy Me A Coffee](https://buymeacoffee.com/Piyush200516) – A small way to keep me motivated  
-- [🎨 Ko-Fi](https://ko-fi.com/Piyush200516) – Connect or show appreciation  
+- [☕ Buy Me A Coffee](https://buymeacoffee.com/Piyush200516) (A small way to keep me motivated)-
+-  [🎨 Ko-Fi](https://ko-fi.com/Piyush200516) – Connect or show appreciation  
 
 </div>
 
