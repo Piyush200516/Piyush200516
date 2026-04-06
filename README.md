@@ -70,6 +70,21 @@
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush200516&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush200516&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Piyush200516&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Piyush200516&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Piyush200516&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Piyush200516&theme=github_dark&utcOffset=5.5)
+
+
 ### 🔥 Streak Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush200516&theme=tokyonight&hide_border=true"/>
