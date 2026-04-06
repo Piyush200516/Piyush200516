@@ -72,7 +72,8 @@
 
 
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush200516&theme=github_dark)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Piyush200516&theme=github_dark)
+
 
 ### 🔥 Streak Statistics
 <p align="center">
