@@ -174,13 +174,16 @@
 
 ## 🎯 2026 Goals
 <!-- TODO: Update with your current year goals -->
-- 🚀 Build 2–3 production-level full-stack applications
-- 💻 Strengthen backend development (APIs, authentication, database design)
-- 🌐 Gain hands-on experience with cloud platforms (AWS/GCP basics)
-- 🤝 Work on real-world freelance projects and deliver quality solutions
-- 📈 Improve problem-solving and coding skills
-- 🗣️ Enhance client communication and requirement understanding
-- ✍️ Share learning through 2–3 technical blogs or posts
+🎯 Secure a Full Stack Developer job in any good company
+💼 Use my 3+ years of freelance experience to get placed
+🧠 Improve basic Data Structures & Algorithms (arrays, strings, recursion)
+🗣️ Improve basic English communication for interviews
+🏗️ Build 2 strong real-world projects for resume
+📈 Practice coding questions daily (consistency over perfection)
+🌐 Convert my Hindi tech knowledge into simple English
+🤝 Crack interviews with strong project explanation skills
+⚡ Focus more on development than advanced DSA
+🚀 Become job-ready with practical skills and confidence
 ---
 
 ## 💼 Let's Connect / Hire Me
