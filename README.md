@@ -29,6 +29,7 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### ☁️ Cloud & DevOps
 
@@ -42,7 +43,7 @@
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
 
 
-### Tools I Use
+### 🧰 Tools I Use
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
@@ -51,7 +52,10 @@
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=for-the-badge&logo=androidstudio&logoColor=white)
 
+### 🧪 Testing
 
+![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=cypress&logoColor=white)
 
 ### 🗄️ Databases  & Distributed Event Streaming Platforms
 
