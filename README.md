@@ -180,6 +180,7 @@
 <!-- TODO: Add your certifications, courses, achievements -->
 - 📜 **[Full Stack Certification]**: Completed comprehensive Full stack development course.
 - 📜 **[Back-end Certification]**: Completed comprehensive Back-end development course.
+- 🏅 Best Project Award | Civil War 2.0, CSI AITR (2026) – Recognized among 100+ projects for innovation, technical excellence, and practical impact. 🚀
 ---
 
 ## 🎯 2026 Goals
