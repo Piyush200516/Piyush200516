@@ -137,16 +137,21 @@
 
 **Features:**
 
-* 🔐 Secure JWT Authentication & Role-Based Authorization
-* 👨‍🎓 Student, Alumni & CDC Dashboards
-* 💼 Job & Internship Management
-* 📅 Campus Events & Registration System
-* 🎓 Student Profile Verification Workflow
-* 💬 Real-Time Chat & Notifications
-* 🏆 Placement Tracking & Analytics Dashboard
+* 🔐 Secure JWT Authentication & Role-Based Authorization (Student, Alumni, CDC Admin)
+* 👨‍🎓 Student Management (Profile, Skills, Achievements & Resume)
+* 🎓 Alumni Management (Profiles, Networking & Career Updates)
+* 🏢 Career Development Cell (CDC) Management Dashboard
+* ✅ Student Profile Verification & Approval Workflow
+* 💼 Job & Internship Posting, Applications & Tracking
+* 📅 Campus Events Management & Registration System
+* 🤝 Alumni–Student Networking & Mentorship
+* 💬 Real-Time Chat & Instant Notifications
+* 📧 Email Notifications using Resend
 * 📂 Resume & Media Uploads via Cloudinary
-* 📧 Automated Email Notifications using Resend
-* 📱 Fully Responsive Modern UI with Dark Mode Support
+* 📊 Placement Tracking, Reports & Analytics Dashboard
+* 🔍 Advanced Search, Filtering & User Management
+* 📱 Fully Responsive UI with Modern Dark Theme
+
 
 **Status:** 🚧 In Development | 🎓 Major Project | 💼 Full-Stack Web Application
 
