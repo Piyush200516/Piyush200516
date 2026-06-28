@@ -120,6 +120,40 @@
 
 *A full-featured Campus Management System with role-based dashboards. Offers attendance & fee management, TC & placement workflows, internships, analytics, PDF receipts, online payments, and real-time notifications for efficient campus operations.*
 ---
+### 🎓 [AlumniConnect](https://github.com/Piyush200516/AlumniConnect)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Piyush200516\&repo=AlumniConnect\&theme=tokyonight)](https://github.com/Piyush200516/AlumniConnect)
+
+**Tech Stack:**
+
+* **Frontend:** React.js, TypeScript, Vite, Tailwind CSS, React Router, Context API, Axios, Framer Motion
+* **Backend:** Node.js, Express.js, TypeScript, Prisma ORM, JWT Authentication, Socket.IO, REST API
+* **Database:** PostgreSQL (Neon)
+* **Authentication & Security:** JWT Authentication, Role-Based Access Control (Student, Alumni, CDC Admin), Protected Routes
+* **Cloud Services:** Cloudinary (Media Uploads), Resend (Email Notifications)
+* **Realtime:** Socket.IO (Real-Time Messaging & Notifications)
+* **Development Tools:** Prisma Studio, Postman, Git, GitHub, ESLint, Prettier
+* **Deployment / Hosting:** Vercel (Frontend), Render / Railway (Backend), Neon PostgreSQL
+
+**Features:**
+
+* 🔐 Secure JWT Authentication & Role-Based Authorization
+* 👨‍🎓 Student, Alumni & CDC Dashboards
+* 💼 Job & Internship Management
+* 📅 Campus Events & Registration System
+* 🎓 Student Profile Verification Workflow
+* 💬 Real-Time Chat & Notifications
+* 🏆 Placement Tracking & Analytics Dashboard
+* 📂 Resume & Media Uploads via Cloudinary
+* 📧 Automated Email Notifications using Resend
+* 📱 Fully Responsive Modern UI with Dark Mode Support
+
+**Status:** 🚧 In Development | 🎓 Major Project | 💼 Full-Stack Web Application
+
+*A modern full-stack alumni management platform designed to bridge the gap between students, alumni, and the Career Development Cell (CDC). AlumniConnect provides a centralized ecosystem for alumni networking, placement management, internship opportunities, campus events, student profile verification, real-time communication, notifications, and analytics. Built with a scalable MERN-inspired architecture using React, Express, Prisma, and PostgreSQL, the platform delivers a secure, responsive, and enterprise-grade user experience.*
+
+
+---
 
 ### 🏥 [Meditrack](https://github.com/Piyush200516/Meditrack)
 
