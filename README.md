@@ -190,29 +190,22 @@ AI-Powered Academic Project Management Platform
 ✅ Advanced Application of Microsoft Excel
 
 ```
-
-# 💼 EXPERIENCE LOG
-
-```bash
-> Career Timeline
-
-[2022 - 2025 ]
-💻 Freelance Full Stack Developer
-
-• Developed modern web applications
-• Built scalable REST APIs
-• Designed responsive user interfaces
-• Worked with MERN Stack & Next.js
-
-──────────────────────────────────────────────
-
-[May 2024]
-🏢 Software Development Intern
-Physics Wallah (PW)
-
-• Contributed to real-world development tasks
-• Collaborated with the development team
-• Improved backend & frontend workflows
-• Gained experience in production-level development
+# ⚡ CAREER DATABASE
 
 ```
+╔════════════════════════════════════════════╗
+║ 💻 FREELANCE DEVELOPER                    ║
+╠════════════════════════════════════════════╣
+║ Role      │ Full Stack Developer          ║
+║ Stack     │ MERN • Next.js • TypeScript   ║
+║ Status    │ Active                        ║
+╚════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════╗
+║ 🏢 PHYSICS WALLAH                         ║
+╠════════════════════════════════════════════╣
+║ Position  │ Software Development Intern   ║
+║ Status    │ Completed                     ║
+╚════════════════════════════════════════════╝
+```
+
