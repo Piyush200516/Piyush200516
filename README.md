@@ -251,4 +251,42 @@ Tracking Developer Activity...
 </div>
 
 ```
+# 📡 CONNECT
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mishra162005)
+
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:piyushmishra21052003@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyush200516)
+
+</div>
+
+> **📩 Let's connect and build something amazing together!**
+```
+# ❤️ SUPPORT
+
+<div align="center">
+
+If you like my work and projects, consider supporting me.
+
+<a href="https://github.com/sponsors/Piyush200516">
+<img src="https://img.shields.io/badge/GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/>
+</a>
+
+<a href="https://buymeacoffee.com/yourusername">
+<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000"/>
+</a>
+
+</div>
+
+```
+
+# 🎧 NOW PLAYING
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID)
+
+</div>
