@@ -130,3 +130,17 @@
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Piyush200516&theme=tokyo-night"/>
 
 </div>
+
+```
+
+# ⚡ PROJECT ARCHIVES
+
+```bash
+> Loading Projects...
+
+[✓] CarBoom
+[✓] AlumniConnect
+[✓] CampusFlow
+
+Status: ONLINE 🟢
+```
