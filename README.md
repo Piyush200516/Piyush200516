@@ -1,72 +1,106 @@
-<img src="https://komarev.com/ghpvc/?username=Piyush200516&label=NIGHT%20CITY%20VISITORS&color=fcee09&style=for-the-badge"/>
+# 👋 Hi, I'm Piyush Mishra
 
-# 🌆 PIYUSH // 2077
-
-### ⚡ Full Stack Developer • Building The Future With Code
+### 🚀 Full Stack Developer | MERN Stack | Next.js | TypeScript
 ---
 
-## 🎯 Current Focus
+## 👨‍💻 About Me
 
--   🔭 Working on: **Building a full-stack e-commerce platform with robust Full Stack architecture**
--   🌱 Learning: **Advanced  Next.js for high-performance frontend**
--   👯 Looking to collaborate on: **Open Source Projects focusing on web development or developer tools**
--   💬 Ask me about: **Full Stack development, API design, database optimization, or frontend performance**
--   ⚡ Fun fact: **I can debug an entire codebase with just a single cup of coffee!**
+- 🎓 B.Tech CSE Student
+- 💼 Full Stack Developer
+- 🚀 Building CampusFlow
+- 🌱 Learning System Design & DevOps
+- 📍 India
 
 ---
 
 ## 🛠️ Technology Arsenal
 
-### 💻 Programming Languages
+# ⚡ TECHNICAL SKILLS
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-### 🚀 Frameworks & Libraries
+### 💬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" />
+</p>
 
-### ☁️ Cloud & DevOps
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,supabase" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
 
+### 📨 Messaging
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+</p>
 
-### 🧰 Tools I Use
+</td>
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?style=for-the-badge&logo=androidstudio&logoColor=white)
+<td valign="top" width="50%">
 
 ### 🧪 Testing
+<p>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+</p>
 
-![Jest](https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=cypress&logoColor=white)
+### 🔐 API & Security
+<p>
+  <img src="https://img.shields.io/badge/REST_API-00E5FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth_2.0-FF6B00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Security-8A2BE2?style=for-the-badge"/>
+</p>
 
-### 🗄️ Databases  & Distributed Event Streaming Platforms
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,railway" />
+  <img src="https://img.shields.io/badge/Neon-00E699?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white"/>
+</p>
 
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+</p>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
+### 🚀 Core Skills
+<p>
+  <img src="https://img.shields.io/badge/Frontend-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-FF00FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API_Development-FFD300?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Auth-39FF14?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-FF4500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database_Optimization-1E90FF?style=for-the-badge"/>
+</p>
+
+### 📚 Relevant Coursework
+<p>
+  <img src="https://img.shields.io/badge/System_Design-FF0080?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Networks-00FFFF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SDLC-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agile-39FF14?style=for-the-badge"/>
+</p>
+
+</td>
+</tr>
+</table>
+
 
 ---
 
