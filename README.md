@@ -171,3 +171,48 @@ AI-Powered Academic Project Management Platform
 [ LIVE ]      [ https://github.com/Piyush200516/ProjectFlow ]
 
 ```
+
+# 🏆 ACHIEVEMENTS
+
+```bash
+> Achievement Unlocked...
+
+🏆 Best Project Award
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📅 23 May 2026
+🏅 Best Project at Civil War 2.0
+
+🎓 Certifications
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ System Design Workshop
+✅ Backend Development
+✅ Full Stack Web Development
+✅ Advanced Application of Microsoft Excel
+
+```
+
+# 💼 EXPERIENCE LOG
+
+```bash
+> Career Timeline
+
+[2022 - 2025 ]
+💻 Freelance Full Stack Developer
+
+• Developed modern web applications
+• Built scalable REST APIs
+• Designed responsive user interfaces
+• Worked with MERN Stack & Next.js
+
+──────────────────────────────────────────────
+
+[May 2024]
+🏢 Software Development Intern
+Physics Wallah (PW)
+
+• Contributed to real-world development tasks
+• Collaborated with the development team
+• Improved backend & frontend workflows
+• Gained experience in production-level development
+
+```
