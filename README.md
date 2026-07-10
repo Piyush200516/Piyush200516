@@ -135,12 +135,39 @@
 
 # ⚡ PROJECT ARCHIVES
 
-```bash
-> Loading Projects...
+╔════════════════════════════════════════════════════════════╗
+              ⚡ PROJECT ARCHIVES // v2.0 ⚡
+╚════════════════════════════════════════════════════════════╝
 
-[✓] CarBoom
-[✓] AlumniConnect
-[✓] CampusFlow
+🚗 CarBoom
+████████████████████████████████████████████████
 
-Status: ONLINE 🟢
+Modern Car Marketplace Platform
+
+⚡ React.js • Node.js • MongoDB • JWT
+
+[ LIVE ]      [ https://github.com/Piyush200516/CarBoom ]
+
+════════════════════════════════════════════════════
+
+🎓 AlumniConnect
+████████████████████████████████████████████████
+
+University Alumni Networking Platform
+
+⚡ Next.js • Express • MongoDB • Socket.IO
+
+[ LIVE ]      [ https://github.com/Piyush200516/AlumniConnect]
+
+════════════════════════════════════════════════════
+
+⚡ Project Flow
+████████████████████████████████████████████████
+
+AI-Powered Academic Project Management Platform
+
+⚡ Next.js • TypeScript • MongoDB • JWT
+
+[ LIVE ]      [ https://github.com/Piyush200516/ProjectFlow ]
+
 ```
