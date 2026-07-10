@@ -1,7 +1,8 @@
-![Profile views](https://komarev.com/ghpvc/?username=Piyush200516&color=blue)
-# 👨‍💻 Piyush Mishra | Freelance Full Stack Developer
-### 🚀 Building scalable & modern web applications with Full Stack expertise
+<img src="https://komarev.com/ghpvc/?username=Piyush200516&label=NIGHT%20CITY%20VISITORS&color=fcee09&style=for-the-badge"/>
 
+# 🌆 PIYUSH // 2077
+
+### ⚡ Full Stack Developer • Building The Future With Code
 ---
 
 ## 🎯 Current Focus
